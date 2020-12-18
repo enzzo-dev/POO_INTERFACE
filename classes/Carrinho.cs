@@ -18,9 +18,10 @@ namespace POO_INTERFACE.classes
             carrinho.Add(produto);
         }
 
-        public void Deletar(Produto produto)
+        public void Deletar(int codigo)
         {
-           carrinho.Remove(produto);
+           var prod = carrinho.Find( x => x.Codigo == codigo); 
+           carrinho.Remove(prod);
         }
 
         public void Listar()

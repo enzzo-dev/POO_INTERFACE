@@ -14,7 +14,7 @@ namespace POO_INTERFACE.classes
         void Alterar(int cod , Produto produto);
 
          //DELETE = DELETAR
-         void Deletar(Produto produto);
+         void Deletar(int codigo);
 
 
     }

@@ -35,6 +35,17 @@ namespace POO_INTERFACE
 
              System.Console.WriteLine("Deseja remover algum produto? [1] - Sim / [2] - Não");
              int resposta2 = int.Parse(Console.ReadLine());
+
+             if(resposta2 == 1){
+
+                 Produto excluir = new Produto();
+                 System.Console.WriteLine("Qual produto você deseja deletar? Digite o código de identificação: ");
+                 excluir.Codigo = int.Parse(Console.ReadLine());
+
+                 carrinho.Deletar(excluir.Codigo);
+
+                 carrinho.Listar();
+             }
         }
     }
 }
