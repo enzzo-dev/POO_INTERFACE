@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO_INTERFACE\bin\Debug\netcoreapp3.1\POO_INTERFACE.exe
+C:\Users\dev\Desktop\POO_INTERFACE\bin\Debug\netcoreapp3.1\POO_INTERFACE.deps.json
+C:\Users\dev\Desktop\POO_INTERFACE\bin\Debug\netcoreapp3.1\POO_INTERFACE.runtimeconfig.json
+C:\Users\dev\Desktop\POO_INTERFACE\bin\Debug\netcoreapp3.1\POO_INTERFACE.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO_INTERFACE\bin\Debug\netcoreapp3.1\POO_INTERFACE.dll
+C:\Users\dev\Desktop\POO_INTERFACE\bin\Debug\netcoreapp3.1\POO_INTERFACE.pdb
+C:\Users\dev\Desktop\POO_INTERFACE\obj\Debug\netcoreapp3.1\POO_INTERFACE.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO_INTERFACE\obj\Debug\netcoreapp3.1\POO_INTERFACE.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO_INTERFACE\obj\Debug\netcoreapp3.1\POO_INTERFACE.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO_INTERFACE\obj\Debug\netcoreapp3.1\POO_INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO_INTERFACE\obj\Debug\netcoreapp3.1\POO_INTERFACE.dll
+C:\Users\dev\Desktop\POO_INTERFACE\obj\Debug\netcoreapp3.1\POO_INTERFACE.pdb
+C:\Users\dev\Desktop\POO_INTERFACE\obj\Debug\netcoreapp3.1\POO_INTERFACE.genruntimeconfig.cache
